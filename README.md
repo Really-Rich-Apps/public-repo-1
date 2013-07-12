@@ -5,4 +5,4 @@ Public repo for sharing code snippets.
 
 Test of editing online. -R
 
-ANother test. -R
+Another test. -R
